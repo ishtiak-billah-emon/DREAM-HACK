@@ -1,0 +1,123 @@
+[
+  {
+    "service_id": "srv001",
+    "image": "https://i.ibb.co.com/1LLW3Gp/career-Counseling.jpg",
+    "service_name": "Career Counseling Sessions",
+    "category": "Virtual Counseling Services",
+    "description": "Personalized one-on-one career guidance to help you find the right path. Whether you're choosing your first career or considering a change, our experts provide tailored advice based on your skills, interests, and goals. You will also get a detailed roadmap to achieve your dream career.",
+    "pricing": "$50 per session",
+    "duration": "05-12-24 5-6pm",
+    "counselor": "John Doe",
+    "rating": 4.8,
+    "learn_more": "https://example.com/career-counseling"
+  },
+  {
+    "service_id": "srv002",
+    "image": "https://i.ibb.co.com/gThVKTH/resume-Review.jpg",
+    "service_name": "Resume Review",
+    "category": "Virtual Counseling Services",
+    "description": "Professional resume critique and improvement suggestions to make your CV stand out. Receive insights on formatting, keyword optimization for ATS, and impactful phrasing to highlight your achievements and skills effectively.",
+    "pricing": "$30",
+    "duration": "Flexible timing",
+    "counselor": "Jane Smith",
+    "rating": 4.7,
+    "learn_more": "https://example.com/resume-review"
+  },
+  {
+    "service_id": "srv003",
+    "image": "https://i.ibb.co.com/N9g13yV/group-Career.jpg",
+    "service_name": "Group Career Workshops",
+    "category": "Collaborative Workshops",
+    "description": "Interactive workshops designed to enhance your career skills, including communication, problem-solving, teamwork, and networking. Learn through practical exercises and real-world scenarios in a collaborative environment.",
+    "pricing": "$20 per person",
+    "duration": "10-12-24 4-6pm",
+    "counselor": "Alex Johnson",
+    "rating": 4.5,
+    "learn_more": "https://example.com/group-workshops"
+  },
+  {
+    "service_id": "srv004",
+    "image": "https://i.ibb.co.com/YDvjpK4/mock-Interview.jpg",
+    "service_name": "Mock Interview Practice",
+    "category": "Virtual Counseling Services",
+    "description": "Prepare for your next big interview with mock sessions tailored to your target industry. Get constructive feedback on your answers, body language, and presentation to boost your confidence and chances of success.",
+    "pricing": "$40 per session",
+    "duration": "15-12-24 3-4pm",
+    "counselor": "Emma Brown",
+    "rating": 4.9,
+    "learn_more": "https://example.com/mock-interview"
+  },
+  {
+    "service_id": "srv005",
+    "image": "https://i.ibb.co.com/CW7fhqs/linkedIn.jpg",
+    "service_name": "LinkedIn Profile Optimization",
+    "category": "Virtual Counseling Services",
+    "description": "Enhance your LinkedIn profile to attract recruiters and build professional connections. Get guidance on crafting a compelling headline, summary, and experience section that showcases your personal brand effectively.",
+    "pricing": "$35",
+    "duration": "Flexible timing",
+    "counselor": "Sophia Lee",
+    "rating": 4.6,
+    "learn_more": "https://example.com/linkedin-optimization"
+  },
+  {
+    "service_id": "srv006",
+    "image": "https://i.ibb.co.com/rwxJ1S1/career-Change-Guidance.jpg",
+    "service_name": "Career Change Guidance",
+    "category": "In-Person Coaching",
+    "description": "Specialized advice for transitioning to a new career. Learn how to leverage your transferable skills, update your resume, and prepare for new opportunities with a clear strategy for success.",
+    "pricing": "$60 per session",
+    "duration": "20-12-24 1-2pm",
+    "counselor": "Michael Davis",
+    "rating": 4.7,
+    "learn_more": "https://example.com/career-change"
+  },
+  {
+    "service_id": "srv007",
+    "image": "https://i.ibb.co.com/QQkDv6s/time-Management.jpg",
+    "service_name": "Time Management Skills",
+    "category": "Collaborative Workshops",
+    "description": "Workshops to improve productivity and time management. Learn practical strategies to prioritize tasks, avoid procrastination, and balance work-life commitments effectively.",
+    "pricing": "$25 per person",
+    "duration": "18-12-24 2-4pm",
+    "counselor": "Ella Wilson",
+    "rating": 4.4,
+    "learn_more": "https://example.com/time-management"
+  },
+  {
+    "service_id": "srv009",
+    "image": "https://i.ibb.co.com/Fg2Hycd/startup.jpg",
+    "service_name": "Entrepreneurship Bootcamp",
+    "category": "Collaborative Workshops",
+    "description": "A comprehensive bootcamp for aspiring entrepreneurs. Learn how to develop a business plan, pitch to investors, and navigate the challenges of starting a business from experienced mentors.",
+    "pricing": "$100",
+    "duration": "15-01-25 10am-4pm",
+    "counselor": "Olivia Jones",
+    "rating": 4.9,
+    "learn_more": "https://example.com/entrepreneurship"
+  },
+  {
+    "service_id": "srv010",
+    "image": "https://i.ibb.co.com/jW1ypvz/public-Speaking.jpg",
+    "service_name": "Public Speaking Coaching",
+    "category": "In-Person Coaching",
+    "description": "Enhance your public speaking and presentation skills with personalized coaching. Learn techniques to engage your audience, structure your speech, and handle Q&A sessions with confidence.",
+    "pricing": "$70",
+    "duration": "10-01-25 3-5pm",
+    "counselor": "Ethan Garcia",
+    "rating": 4.8,
+    "learn_more": "https://example.com/public-speaking"
+  },
+  {
+    "service_id": "srv011",
+    "image": "https://i.ibb.co.com/1QCBTBz/study-Abroad.jpg",
+    "service_name": "Scholarship and Study-Abroad Guidance",
+    "category": "Student Career Counseling",
+    "description": "Expert guidance on scholarships, study-abroad programs, and admissions processes. Get tips on writing impactful essays, choosing the right universities, and acing interviews to secure your spot at a top institution.",
+    "pricing": "$55 per session",
+    "duration": "Flexible timing",
+    "counselor": "Daniel Cooper",
+    "rating": 4.9,
+    "learn_more": "https://example.com/study-abroad"
+  }
+]
+

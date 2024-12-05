@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "course_name": "Introduction to Web Development",
+    "target_audience": "Beginner developers, students interested in coding",
+    "description": "Learn the basics of web development, including HTML, CSS, and JavaScript. This course covers essential web technologies and is a great starting point for aspiring web developers.",
+    "duration": "4 weeks",
+    "instructor": "John Doe",
+    "level": "Beginner",
+    "format": "Video tutorials, quizzes, hands-on projects",
+    "requirements": "No prior knowledge of programming required.",
+    "completion_certificate": true,
+    "category": "Web Development",
+    "image_url": "https://i.ibb.co.com/JjTBzk5/webdev.jpg"
+  },
+  {
+    "id": 2,
+    "course_name": "Digital Marketing Fundamentals",
+    "target_audience": "Marketing professionals, business owners, aspiring digital marketers",
+    "description": "This course provides an introduction to digital marketing, including SEO, SEM, content marketing, and social media strategies. Perfect for those looking to improve their online marketing skills.",
+    "duration": "6 weeks",
+    "instructor": "Jane Smith",
+    "level": "Intermediate",
+    "format": "Lectures, case studies, practical assignments",
+    "requirements": "Basic understanding of marketing principles.",
+    "completion_certificate": true,
+    "category": "Marketing",
+    "image_url": "https://i.ibb.co.com/S01x4zM/digital-Marketing.jpg"
+  },
+  {
+    "id": 3,
+    "course_name": "Introduction to Data Science",
+    "target_audience": "Aspiring data scientists, professionals looking to transition into data-related roles",
+    "description": "Gain foundational knowledge in data science, including statistical analysis, Python programming, and data visualization tools. This course will help you get started in the field of data science.",
+    "duration": "8 weeks",
+    "instructor": "Michael Lee",
+    "level": "Beginner",
+    "format": "Video tutorials, hands-on exercises, quizzes",
+    "requirements": "Basic knowledge of math and statistics.",
+    "completion_certificate": true,
+    "category": "Data Science",
+    "image_url": "https://i.ibb.co.com/rQ1qWTw/data.png"
+  },
+  {
+    "id": 4,
+    "course_name": "Project Management Essentials",
+    "target_audience": "Aspiring project managers, professionals looking to improve their project management skills",
+    "description": "Learn the principles and best practices of project management, including project planning, risk management, and resource allocation. Ideal for anyone looking to manage projects more effectively.",
+    "duration": "5 weeks",
+    "instructor": "Sarah Johnson",
+    "level": "Intermediate",
+    "format": "Interactive lectures, project planning tools, group activities",
+    "requirements": "No prior project management experience required.",
+    "completion_certificate": true,
+    "category": "Management",
+    "image_url": "https://i.ibb.co.com/MCPxhHf/project.jpg"
+  },
+  {
+    "id": 5,
+    "course_name": "Business Communication Skills",
+    "target_audience": "Professionals, team leaders, managers, anyone looking to improve communication in the workplace",
+    "description": "This course covers essential business communication skills, including writing professional emails, effective presentations, and communication strategies for team collaboration.",
+    "duration": "3 weeks",
+    "instructor": "Emily Davis",
+    "level": "Beginner",
+    "format": "Lectures, role-playing exercises, case studies",
+    "requirements": "None",
+    "completion_certificate": true,
+    "category": "Soft Skills",
+    "image_url": "https://i.ibb.co.com/NnTdytL/businesscomm.jpg"
+  }
+]
